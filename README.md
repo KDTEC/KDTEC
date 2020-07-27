@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+I'm Kshitij Dhawan. I'm currently pursuing my B.Tech Degree from VIT, Vellore in Computer Science. A passionate learner and actively looking for internship opportunities.Skilled in Python (Programming Language), Data Structures, C (Programming Language), and Front Wev Dev.
 
-<!--
-**KDTEC/KDTEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some more about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on GUI Using Python
+- 👯 I’m looking to collaborate on intresting projects
+- 🤔 I’m looking for help with cool ideas
+- 💬 Ask me about Python and web dev
+- 😄 Pronouns: Coding enthusiast
+- ⚡ Fun fact: There is no place like 127.0.0.1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+<a href =https://github.com/KDTEC target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='35' weight='35'/></a>
+<a href = https://www.linkedin.com/in/kshitij-dhawan-a8a25b18b/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a> 
+<a href = https://www.instagram.com/_kaydeee__/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='35' weight='35'/></a>
+
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=KDTEC&show_icons=true&hide_border=false&theme=radical)
