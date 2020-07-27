@@ -3,7 +3,7 @@ I'm Kshitij Dhawan. I'm currently pursuing my B.Tech Degree from VIT, Vellore in
 
 ### Some more about me:
 
-- 🔭 I’m currently working on GUI Using Python
+- 🔭 I’m currently working on GUI Programming Using Python
 - 👯 I’m looking to collaborate on intresting projects
 - 🤔 I’m looking for help with cool ideas
 - 💬 Ask me about Python and web dev
