@@ -18,5 +18,5 @@ I'm Kshitij Dhawan. I'm currently pursuing my B.Tech Degree from VIT, Vellore in
 <a href = https://www.linkedin.com/in/kshitij-dhawan-a8a25b18b/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='35' weight='35'/></a> 
 <a href = https://www.instagram.com/_kaydeee__/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='35' weight='35'/></a>
 
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=KDTEC&show_icons=true&hide_border=false&theme=onedark)
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=KDTEC&show_icons=true&hide_border=false&theme=onedark)/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDTEC&layout=compact&theme=radical)](https://github.com/KDTEC/github-readme-stats)
